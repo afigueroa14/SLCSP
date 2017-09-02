@@ -1,0 +1,6 @@
+
+
+  Instruction for Execution of the Application
+
+  1. cd target
+  2. slcsp-1.0/bin/slcsp
